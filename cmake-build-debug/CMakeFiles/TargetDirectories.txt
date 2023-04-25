@@ -1,0 +1,3 @@
+C:/Users/Hellstone/CLionProjects/SCC150-Preprocessor/cmake-build-debug/CMakeFiles/SCC150_Preprocessor.dir
+C:/Users/Hellstone/CLionProjects/SCC150-Preprocessor/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Hellstone/CLionProjects/SCC150-Preprocessor/cmake-build-debug/CMakeFiles/rebuild_cache.dir
